@@ -70,7 +70,7 @@ SOC-GPT is designed with:
 SOC-GPT is an assistant tool, not a security control.
 All outputs should be reviewed and validated by qualified security professionals before taking action.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
